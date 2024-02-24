@@ -8,7 +8,7 @@ This is a brief article that aims to teach users how to use flairs and filters (
 
 ## Using Filters on Mobile
 
-Note: I'm using an android for this tutorial. iPhone should be a very similar experience.
+Note: I'm using an Android for this tutorial. iPhone should be a very similar experience.
 First, we start at [r/COCBaseLayouts](https://www.reddit.com/r/COCBaseLayouts/). Next, we open the search menu.
 
 ![Search Menu Location SS](cocbaselayouts-images/mobile/Search-Menu-Location-SS.png)
@@ -23,7 +23,7 @@ Next, we filter the posts by flair first. Pick whatever flair you want to filter
 -----
 -----
 
-On some devices, you may not see a list of the post flairs like you can on this particular android. Your final solution is to lookup the flair in the search bar.
+On some devices, you may not see a list of the post flairs like you can on this particular Android. Your final solution is to look up the flair in the search bar.
 
 We're still figuring out the exact syntax. On (my) **android**, the following syntax is: `flair_name:"FLAIR-NAME"`.
 
@@ -31,7 +31,17 @@ On **iOS**, the syntax is `flair:"FLAIR-NAME"`.
 
 In either case, this works on mobile and desktop, so long as you use the search bar built into the Reddit website, NOT the URL bar.
 
+This is the Android syntax.
+
 ![Flair By Search Bar SS](cocbaselayouts-images/mobile/Flair-By-Search-Bar-SS.png)
+
+-----
+-----
+
+And this is the iOS syntax.
+
+![iOS Flair By Search Bar SS](cocbaselayouts-images/mobile/iOS-Flair-By-Search-Bar-SS.png)
+
 
 -----
 -----
@@ -65,7 +75,7 @@ And as you can see, we gathered all of the TH2 posts, and sorted them by total u
 -----
 
 ## Using Filters on Desktop
-Like mobile, we want to filter by flair first. There's a few ways of doing this.
+Like mobile, we want to filter by flair first. There are a few ways of doing this.
 
 If a user has made a post whose type is the same that you're looking to filter by, you can just click the flair of the post!
 
