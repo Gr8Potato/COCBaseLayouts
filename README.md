@@ -16,9 +16,16 @@ First, we start at [r/COCBaseLayouts](https://www.reddit.com/r/COCBaseLayouts/).
 -----
 -----
 
-Next, we filter the posts by flair first. Pick whatever flair you want to filter (we're using TH2 as an example).
+Next, we filter the posts by flair first. Pick whatever flair you want to filter (we're using TH2 as an example). If this isn't visible, continue reading.
 
 ![Search Bar Flair Picker SS](cocbaselayouts-images/mobile/Search-Bar-Flair-Picker-SS.png)
+
+-----
+-----
+
+On some devices, you may not see a list of the post flairs like you can on this particular android. Your final solution is to lookup the flair in the search bar, namely using the following syntax: `flair_name:"FLAIR-NAME"`. This syntax works on mobile and desktop, so long as you use the search bar built into the Reddit website, NOT the URL bar.
+
+![Flair By Search Bar SS](cocbaselayouts-images/mobile/Flair-By-Search-Bar-SS.png)
 
 -----
 -----
