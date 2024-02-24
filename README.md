@@ -31,7 +31,7 @@ On **iOS**, the syntax is `flair:"FLAIR-NAME"`.
 
 In either case, this works on mobile and desktop, so long as you use the search bar built into the Reddit website, NOT the URL bar.
 
-This is the Android syntax.
+This is the Android/PC syntax.
 
 ![Flair By Search Bar SS](cocbaselayouts-images/mobile/Flair-By-Search-Bar-SS.png)
 
