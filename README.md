@@ -25,9 +25,9 @@ Next, we filter the posts by flair first. Pick whatever flair you want to filter
 
 On some devices, you may not see a list of the post flairs like you can on this particular android. Your final solution is to lookup the flair in the search bar.
 
-We're still figuring out the exact syntax. On (my) android, the following syntax is: `flair_name:"FLAIR-NAME"`.
+We're still figuring out the exact syntax. On (my) **android**, the following syntax is: `flair_name:"FLAIR-NAME"`.
 
-On iOS, the syntax is `flair:"FLAIR-NAME"`.
+On **iOS**, the syntax is `flair:"FLAIR-NAME"`.
 
 In either case, this works on mobile and desktop, so long as you use the search bar built into the Reddit website, NOT the URL bar.
 
